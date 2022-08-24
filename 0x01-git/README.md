@@ -1,2 +1,3 @@
-My first readme file has been updated successfully
+my first readme file
+updated successfully using vim
 
